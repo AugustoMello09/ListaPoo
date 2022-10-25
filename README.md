@@ -41,7 +41,7 @@ objeto instanciado neste tópico.
 
 ## Teste o projeto 👁‍🗨
 
-Download do projeto para testar em sua máquina: xxx
+Download do projeto para testar em sua máquina: https://github.com/AugustoMello09/ListaPoo/archive/refs/heads/main.zip
 
 ## Entre em contado 👋
   
