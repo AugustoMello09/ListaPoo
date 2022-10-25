@@ -34,3 +34,20 @@ para o instante atual, aproveitar a lista do exercício anterior, fazer um
 ForEach (utilizando expressões Lambdas) e para cada Jogo da lista, exibir 
 na tela a diferença de dias da data de publicação do jogo em relação ao 
 objeto instanciado neste tópico.
+
+## Ferramentas e Tecnologias usadas nesse repositório 🌐
+
+<img align="center" alt="Augusto-Java" height="60" width="60" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg >   
+
+## Teste o projeto 👁‍🗨
+
+Download do projeto para testar em sua máquina: xxx
+
+## Entre em contado 👋
+  
+<div>
+  
+  <a href = "joseaugusto.mello01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-794a94234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+  </div>
